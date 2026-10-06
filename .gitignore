@@ -1,0 +1,14 @@
+node_modules
+.next
+dist
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+coverage
+npm-debug.log*
+*.tsbuildinfo
+.DS_Store
+prisma/*.db
+prisma/*.db-journal
